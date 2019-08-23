@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 5bb90061caf39ec45afd522d134ebf77
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cardboard_Box_Large
+    100002: Cardboard_Box_Small
+    100004: ChestBottom
+    100006: ChestGold
+    100008: ChestLid
+    100010: Crate
+    100012: Cube
+    100014: //RootNode
+    100016: Oil_Drum
+    100018: Steel_Fence
+    100020: TrafficCone
+    100022: Wheel
+    100024: Wooden_Fence
+    100026: WoodenBarrel
+    400000: Cardboard_Box_Large
+    400002: Cardboard_Box_Small
+    400004: ChestBottom
+    400006: ChestGold
+    400008: ChestLid
+    400010: Crate
+    400012: Cube
+    400014: //RootNode
+    400016: Oil_Drum
+    400018: Steel_Fence
+    400020: TrafficCone
+    400022: Wheel
+    400024: Wooden_Fence
+    400026: WoodenBarrel
+    2100000: Aliminium__SharedProps
+    2100002: Rubber__SharedProps
+    2100004: Plywood__SharedProps
+    2100006: Dark_Steel__SharedProps
+    2100008: Oak__SharedProps
+    2100010: RedPlastic__SharedProps
+    2100012: Gold__SharedProps
+    2100014: Cardboard__SharedProps
+    2100016: Painted_Metal__SharedProps
+    2300000: Cardboard_Box_Large
+    2300002: Cardboard_Box_Small
+    2300004: ChestBottom
+    2300006: ChestGold
+    2300008: ChestLid
+    2300010: Crate
+    2300012: Cube
+    2300014: Oil_Drum
+    2300016: Steel_Fence
+    2300018: TrafficCone
+    2300020: Wheel
+    2300022: Wooden_Fence
+    2300024: WoodenBarrel
+    3300000: Cardboard_Box_Large
+    3300002: Cardboard_Box_Small
+    3300004: ChestBottom
+    3300006: ChestGold
+    3300008: ChestLid
+    3300010: Crate
+    3300012: Cube
+    3300014: Oil_Drum
+    3300016: Steel_Fence
+    3300018: TrafficCone
+    3300020: Wheel
+    3300022: Wooden_Fence
+    3300024: WoodenBarrel
+    4300000: Wheel
+    4300002: Cube
+    4300004: Steel_Fence
+    4300006: Wooden_Fence
+    4300008: TrafficCone
+    4300010: ChestBottom
+    4300012: ChestGold
+    4300014: ChestLid
+    4300016: Crate
+    4300018: Cardboard_Box_Large
+    4300020: Cardboard_Box_Small
+    4300022: Oil_Drum
+    4300024: WoodenBarrel
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
